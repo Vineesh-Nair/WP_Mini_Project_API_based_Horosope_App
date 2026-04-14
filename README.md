@@ -1,5 +1,10 @@
 # WP Mini Project: API-based Horoscope App
 
+## 👥 Contributors
+* **Aarya Mhatre** (Team Lead)
+* **Vineesh Nair**
+* **Adheesh**
+
 A lightweight web application that fetches and displays horoscope data using an external API and local JSON storage.
 
 ## 🚀 Features
